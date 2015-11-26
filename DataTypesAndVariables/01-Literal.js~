@@ -1,5 +1,5 @@
 
-var intNum = 20;
+var intNum = 15;
 var floatNum = 1.50;
 var bool = false;
 var string = "String literal";
